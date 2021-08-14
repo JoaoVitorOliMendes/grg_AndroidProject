@@ -99,7 +99,7 @@
         app:layout_constraintTop_toTopOf="parent" />
 
     <EditText
-        android:id="@+id/simpleEditText6"
+        android:id="@+id/txtConfirmarSenhaRegister"
         android:layout_width="250dp"
         android:layout_height="wrap_content"
         android:layout_centerInParent="true"
@@ -115,7 +115,7 @@
         app:layout_constraintTop_toTopOf="parent" />
 
     <EditText
-        android:id="@+id/simpleEditText"
+        android:id="@+id/txtNomeRegister"
         android:layout_width="250dp"
         android:layout_height="wrap_content"
         android:layout_centerInParent="true"
@@ -131,7 +131,7 @@
         app:layout_constraintTop_toTopOf="parent" />
 
     <EditText
-        android:id="@+id/simpleEditText4"
+        android:id="@+id/txtCpfRegister"
         android:layout_width="250dp"
         android:layout_height="wrap_content"
         android:layout_centerInParent="true"
@@ -147,7 +147,7 @@
         app:layout_constraintTop_toTopOf="parent" />
 
     <EditText
-        android:id="@+id/simpleEditText2"
+        android:id="@+id/txtEmailRegister"
         android:layout_width="250dp"
         android:layout_height="wrap_content"
         android:layout_centerInParent="true"
@@ -163,7 +163,7 @@
         app:layout_constraintTop_toTopOf="parent" />
 
     <EditText
-        android:id="@+id/simpleEditText3"
+        android:id="@+id/txtTelefoneRegister"
         android:layout_width="250dp"
         android:layout_height="wrap_content"
         android:layout_centerInParent="true"
@@ -179,7 +179,7 @@
         app:layout_constraintTop_toTopOf="parent" />
 
     <EditText
-        android:id="@+id/simpleEditText5"
+        android:id="@+id/txtSenhaRegister"
         android:layout_width="250dp"
         android:layout_height="wrap_content"
         android:layout_centerInParent="true"

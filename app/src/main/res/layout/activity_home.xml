@@ -191,7 +191,7 @@
         app:srcCompat="@drawable/line" />
 
     <EditText
-        android:id="@+id/simpleEditText2"
+        android:id="@+id/txtEmailRegister"
         android:layout_width="350dp"
         android:layout_height="wrap_content"
         android:layout_centerInParent="true"

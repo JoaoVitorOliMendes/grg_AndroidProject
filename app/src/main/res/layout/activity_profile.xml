@@ -154,7 +154,7 @@
         app:layout_constraintStart_toStartOf="parent" />
 
     <EditText
-        android:id="@+id/simpleEditText7"
+        android:id="@+id/txtConfirmeSenhaProfile"
         android:layout_width="250dp"
         android:layout_height="wrap_content"
         android:layout_centerInParent="true"
@@ -169,7 +169,7 @@
         app:layout_constraintTop_toTopOf="parent" />
 
     <EditText
-        android:id="@+id/simpleEditText12"
+        android:id="@+id/txtSenhaProfile"
         android:layout_width="250dp"
         android:layout_height="wrap_content"
         android:layout_centerInParent="true"
@@ -184,7 +184,7 @@
         app:layout_constraintTop_toTopOf="parent" />
 
     <EditText
-        android:id="@+id/simpleEditText9"
+        android:id="@+id/txtCpfProfile"
         android:layout_width="250dp"
         android:layout_height="wrap_content"
         android:layout_centerInParent="true"
@@ -200,7 +200,7 @@
         app:layout_constraintTop_toTopOf="parent" />
 
     <EditText
-        android:id="@+id/simpleEditText10"
+        android:id="@+id/txtEmailProfile"
         android:layout_width="250dp"
         android:layout_height="wrap_content"
         android:layout_centerInParent="true"
@@ -215,7 +215,7 @@
         app:layout_constraintTop_toTopOf="parent" />
 
     <EditText
-        android:id="@+id/simpleEditText11"
+        android:id="@+id/txtTelefoneProfile"
         android:layout_width="250dp"
         android:layout_height="wrap_content"
         android:layout_centerInParent="true"
@@ -230,7 +230,7 @@
         app:layout_constraintTop_toTopOf="parent" />
 
     <EditText
-        android:id="@+id/simpleEditText8"
+        android:id="@+id/txtNomeProfile"
         android:layout_width="250dp"
         android:layout_height="wrap_content"
         android:layout_centerInParent="true"
